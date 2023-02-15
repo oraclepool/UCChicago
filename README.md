@@ -1,1 +1,2 @@
 # UCChicago
+UC Chicago
